@@ -209,11 +209,11 @@ Tokens are **not** stored in the repo for security.
 ## Maintainer
 
 **Mohammad Mahmudul Hasan**  
-*Associate Professor*
-*Department of Electrical and Electronic Engineering*
-*Email: mohammad.m.hasan@ntnu.no, Phone: +4746345632*
-*URL: https://dearmahmud.github.io*
-For issues or requests, please open a GitHub issue or contact me.
+- *Associate Professor*
+- *Department of Electrical and Electronic Engineering*
+- *Email: mohammad.m.hasan@ntnu.no, Phone: +4746345632*
+- *URL: https://dearmahmud.github.io*
+- For issues or requests, please open a GitHub issue or contact me.
 
 ---
 
