@@ -225,7 +225,7 @@ Academic use. Add a `LICENSE` file (e.g., MIT) if a formal license is required.
 
 ---
 
-### Submission Links (for evaluators)
+### Repository/Colab Links
 
 - **GitHub Repository:** https://github.com/dearmahmud/MedVisionPipeline  
 - **Colab Notebook:** https://colab.research.google.com/github/dearmahmud/MedVisionPipeline/blob/master/notebooks/Colab_main.ipynb
