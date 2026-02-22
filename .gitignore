@@ -1,4 +1,3 @@
-gitignore = """
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
@@ -9,9 +8,4 @@ outputs/
 
 venv/
 .env
-"""
-
-with open(".gitignore", "w") as f:
-    f.write(gitignore)
-
-print(".gitignore created")
+.DS_Store
