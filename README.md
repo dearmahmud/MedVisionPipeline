@@ -211,7 +211,8 @@ Tokens are **not** stored in the repo for security.
 **Dr. Mohammad Mahmudul Hasan**  
 Associate Professor  
 Department of Electrical and Electronic Engineering  
-Email: mohammad.m.hasan@ntnu.no,  Phone: +47 463 45 632  
+UITS, Dhaka, Phone: +47 463 45 632
+Email: mohammad.m.hasan@ntnu.no    
 Website: https://dearmahmud.github.io  
 
 For issues or requests, please open a GitHub issue or contact me.
