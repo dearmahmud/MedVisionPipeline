@@ -1,3 +1,10 @@
+## Run in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/dearmahmud/MedVisionPipeline/blob/master/notebooks/Colab_main.ipynb
+)
+
+
 # PneumoniaMNIST – Classification, Report Generation, and Semantic Retrieval
 
 This repo implements three connected tasks on MedMNIST v2 PneumoniaMNIST:  
