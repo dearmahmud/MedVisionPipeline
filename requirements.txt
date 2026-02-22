@@ -1,0 +1,14 @@
+torch
+torchvision
+medmnist
+numpy
+matplotlib
+scikit-learn
+tqdm
+faiss-cpu
+Pillow
+transformers>=4.51.3
+accelerate
+sentencepiece
+bitsandbytes
+seaborn
