@@ -208,7 +208,7 @@ Tokens are **not** stored in the repo for security.
 
 ## Maintainer
 
-**Mohammad Mahmudul Hasan**  
+**Dr. Mohammad Mahmudul Hasan**  
 Associate Professor  
 Department of Electrical and Electronic Engineering  
 Email: mohammad.m.hasan@ntnu.no  
