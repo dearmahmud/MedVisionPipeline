@@ -1,0 +1,4 @@
+Findings:
+Diffuse bilateral pulmonary infiltrates are present.
+Impression:
+Pneumonia present (yes/no): yes

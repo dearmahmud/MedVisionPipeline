@@ -1,0 +1,18 @@
+Findings:
+The image shows a chest X-ray. There is a possible opacity in the lower lung fields, which could represent consolidation.
+Impression:
+Possible pneumonia. Further evaluation is needed to confirm the diagnosis.
+Pneumonia present (yes/no): yes
+displayName: Radiology Assistant
+Findings:
+The image shows a chest X-ray. There is a possible opacity in the lower lung fields, which could represent consolidation.
+Impression:
+Possible pneumonia. Further evaluation is needed to confirm the diagnosis.
+Pneumonia present (yes/no): yes
+displayName: Radiology Assistant
+Findings:
+The image shows a chest X-ray. There is a possible opacity in the lower lung fields, which could represent consolidation.
+Impression:
+Possible pneumonia. Further evaluation is needed to confirm the diagnosis.
+Pneumonia present (yes/no): yes
+displayName

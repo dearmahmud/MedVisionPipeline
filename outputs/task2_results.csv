@@ -1,0 +1,3 @@
+Index,GroundTruth,ClassifierPred,TextPred,Probability
+0,1,1,1,0.9981396198272705
+1,0,1,1,0.9987439513206482
